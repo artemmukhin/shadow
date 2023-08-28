@@ -27,7 +27,7 @@ apply plugin: 'java'
 
 Shadow is a reactive plugin.
 This means that applying Shadow by itself will perform no configuration on your project.
-Instead, Shadow _reacts_
+Instead, Shadow _reacts_.
 This means, that for most users, the `java` or `groovy` plugins must be _explicitly_ applied
 to have the desired effect.
 
